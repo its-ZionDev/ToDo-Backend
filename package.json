@@ -1,0 +1,18 @@
+{
+  "name": "test-01-todo-list-backend",
+  "version": "1.0.0",
+  "description": "This is a simple Todo List application built with Node.js and Express. It supports the following features:\r - Fetching the list of todos with optional search and filters\r - Adding a new todo item\r - Updating an existing todo item\r - Deleting a todo item\r - Marking a todo item as completed",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
