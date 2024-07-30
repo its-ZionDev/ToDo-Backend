@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Setup an alarm",
+    "description": "Wake up Early in the morning by 6 am",
+    "id": 1722277669824,
+    "completed": true,
+    "lastUpdate": "2024-07-29T18:28:33.170Z"
+  },
+  {
+    "title": "Buy vegetables and milk",
+    "description": "After leaving office, make sure to buy the items",
+    "id": 1722277826954,
+    "completed": false,
+    "lastUpdate": "2024-07-29T18:30:26.954Z"
+  },
+  {
+    "title": "Complete maths homework after school!",
+    "description": "Finish all the school studies by 7pm",
+    "id": 1722277968052,
+    "completed": true,
+    "lastUpdate": "2024-07-29T18:39:50.776Z"
+  },
+  {
+    "title": "Do full body workout in the evening",
+    "description": "Take ample amount of water during the day!",
+    "id": 1722280183627,
+    "completed": true,
+    "lastUpdate": "2024-07-29T19:20:29.427Z"
+  },
+  {
+    "title": "Take the dog out for a walk",
+    "description": "",
+    "id": 1722280581128,
+    "completed": false,
+    "lastUpdate": "2024-07-29T19:17:49.584Z"
+  }
+]
